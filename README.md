@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo semua 👋
 
 <!--
 **sitialiya/sitialiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Siti Aliya Ngakasah**
+
+Saya seorang mahasiswa jurusan Sistem Informasi
+
+Saya sedang mengikuti Kampus Merdeka x Dicoding pada SIB Cycle 4
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sitialiya/)ku ya.
+
